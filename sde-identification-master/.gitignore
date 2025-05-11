@@ -1,0 +1,13 @@
+*/.ipynb_checkpoints
+/.ipynb_checkpoints
+*/__pycache__
+/__pycache__
+/sde/__pycache__
+/gillespie/build
+/gillespie/gillespie.c
+/gillespie/gillespie.cp37-win_amd64.pyd
+/gillespie/gillespie.html
+/gillespie/.ipynb_checkpoints
+/gillespie/__pycache__
+/gillespie/gillespie_c.cp37-win_amd64.pyd
+/gillespie/gillespie_c.html
